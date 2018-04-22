@@ -5,6 +5,9 @@ so I write the program to retrieve saved messages from server and save it in a h
 which is optimized with bootstrap
 
 first install telethon library
+
 $sudo pip install telethon
+
 then run program
+
 $python backthon.py
