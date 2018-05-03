@@ -6,8 +6,11 @@ which is optimized with bootstrap
 
 first install telethon library
 
-$sudo pip install telethon
-
+```sh
+$ sudo pip install telethon
+```
 then run program
 
-$python backthon.py
+```sh
+$ $python backthon.py
+```
