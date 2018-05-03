@@ -12,5 +12,5 @@ $ pip install telethon
 then run program
 
 ```sh
-$ $python backthon.py
+$ python backthon.py
 ```
