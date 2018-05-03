@@ -7,7 +7,7 @@ which is optimized with bootstrap
 first install telethon library
 
 ```sh
-$ sudo pip install telethon
+$ pip install telethon
 ```
 then run program
 
